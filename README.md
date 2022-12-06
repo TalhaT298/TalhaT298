@@ -6,7 +6,7 @@
 
 A student and I have a passion for learning and sharing my knowledge with others.I pride myself on doing quality work and maintain excellent communication.Most of the time i work with WordPress but some technologies i enjoy working with JavaScript as well as PHP.
 
-Skills:  / JS / HTML / CSS/PHP
+Skills:  / JS / HTML / CSS/
 
 - 🔭 I’m currently working on Website 
 - 🌱 I’m currently learning JavaScript 
