@@ -4,9 +4,9 @@
 ### Hi there 👋, This is Talha Tarique
 #### A Web Developer
 
-A student and I have a passion for learning and sharing my knowledge with others.I pride myself on doing quality work and maintain excellent communication.Most of the time i work with WordPress but some technologies i enjoy working with JavaScript as well as PHP.
+A Junior Front-End Developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
-Skills:  / JS / HTML / CSS/
+Skills:React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
 
 - 🔭 I’m currently working on Website 
 - 🌱 I’m currently learning JavaScript 
