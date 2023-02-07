@@ -6,7 +6,7 @@
 A Junior Full stack developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
 Skills:React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.ibb.co/mS7ScZM/Untitled-design.gif">
 - 🔭 I’m currently working on Website 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
