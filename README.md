@@ -1,11 +1,11 @@
-![A Web Developer](https://i.ibb.co/PDXcfkp/WEB-DEVELOPER-1.gif)
+![A Web Developer](https://i.ibb.co/68W7wQf/WEB-DEVELOPER-2.gif)
 
 <h2 align="center">Hi 👋, This is Talha Tarique</h2> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 A Junior Full stack developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
 Skills:React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
-<img align="right" alt="Coding" width="300" src="https://i.ibb.co/mS7ScZM/Untitled-design.gif">
+<img align="right" alt="Coding" width="300" src="https://i.ibb.co/86Jw8k9/Untitled-design-1.gif">
 - 🔭 I’m currently working on Website 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
