@@ -1,10 +1,10 @@
-![A Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/83085948_2445955309054075_2902826974978244608_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGXuz_qbZWt0MLfF2OIVk1RcsqBuz2D6gxyyoG7PYPqDD0FUzk9VjWS1x0S_Pd6wk0zvKbzajIgTcFIUXVA8UBb&_nc_ohc=KD-hr0SxkuEAX-scIu_&_nc_ht=scontent.fdac14-1.fna&oh=4cbed8c17a79f792dc33e42081e98099&oe=61C1EEF4)
+![A Web Developer]()
 
 
 ### Hi there 👋, This is Talha Tarique
 #### A Web Developer
 
-A Junior Front-End Developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
+A Junior Full stack developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
 Skills:React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
 
