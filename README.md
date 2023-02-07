@@ -27,4 +27,5 @@ Skills:React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TalhaT298)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaT298&show_icons=true) 
+
 ![Profile views](https://gpvc.arturio.dev/TalhaT298)  
