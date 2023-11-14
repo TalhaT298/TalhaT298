@@ -12,8 +12,25 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 - 📫 How to reach me: mdtalha2008@gmail.com 
 - 💬 Ask me about **ReactJs**
 - 📍 Location: Rangpur/Bangladesh 
+<div style="display: flex;">
+  <a href="https://linkedin.com/in/sarathiparth">
+    <img src="https://www.linkedin.com/in/talha-tarique-25908620b/" src="linkedin-icon">
+  </a>
+  <a href="https://twitter.com/TalhaTarique1">
+    <img src="https://skillicons.dev/icons?i=twitter" src="github-icon">
+  </a>
+  <a href="https://github.com/TalhaT298">
+    <img src="https://skillicons.dev/icons?i=github" src="github-icon">
+  </a>
+  <a href="https://www.instagram.com/talha_tarique77/">
+    <img src="https://skillicons.dev/icons?i=instagram" src="instagram-icon">
+  </a>
+ <a href="https://www.facebook.com/talha.tarique.5">
+    <img src="https://skillicons.dev/icons?i=instagram" src="facebook-icon">
+  </a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaT298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-tarique-25908620b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/talha.tarique.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/talha_tarique77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TalhaTarique1)  
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
