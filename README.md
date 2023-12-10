@@ -5,7 +5,8 @@
 A Junior Full stack developer with experience in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI,Typescript,NextJs,Readux,Sass,ES6,Netlify,Firebase, and MongoDB.Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
 Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+
+💡&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🌱 I’m currently learning **NextJs**
 - 👯 I’m looking to collaborate on github 
 ✉️ &nbsp;You can shoot me an email at mdtalha2008@gmail.com! I'll try to respond as soon as I can.\
