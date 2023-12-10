@@ -6,11 +6,11 @@ A Junior Full stack developer with experience in React.js, NodeJs, JavaScript, H
 
 Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
 
-💡&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-- 🌱 I’m currently learning **NextJs**
-- 👯 I’m looking to collaborate on github 
-✉️ &nbsp;You can shoot me an email at mdtalha2008@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://drive.google.com/file/d/1_DqOo_IcVrEuQJ_4G2ryqFkmUVXNFjJ_/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
+- 💡I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱I’m currently learning **NextJs**
+- 👯I’m looking to collaborate on github 
+- ✉️ &nbsp;You can shoot me an email at mdtalha2008@gmail.com! I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://drive.google.com/file/d/1_DqOo_IcVrEuQJ_4G2ryqFkmUVXNFjJ_/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
 - 📍 Location: Rangpur/Bangladesh
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaT298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-tarique-25908620b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/talha.tarique.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/talha_tarique77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TalhaTarique1)  
