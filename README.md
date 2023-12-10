@@ -44,5 +44,12 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
-
-![Profile views](https://gpvc.arturio.dev/TalhaT298)  
+<p align="center">
+<!--   <a href="https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934">
+    <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime">
+  </a> -->
+  
+  <a href="https://github.com/TalhaT298">
+    <img src="https://komarev.com/ghpvc/?username=TalhaT298" alt="Profile Visits">
+  </a>
+</p>  
