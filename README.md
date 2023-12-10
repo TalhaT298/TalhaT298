@@ -28,7 +28,8 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp; </br>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=TalhaT298)](https://github.com/ryo-ma/github-profile-trophy)
