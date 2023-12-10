@@ -49,7 +49,7 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 <!--   <a href="https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934">
     <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime">
   </a> -->
-  
+  ![VisitorCount](https://profile-counter.glitch.me/{TalhaT298}/count.svg)
   <a href="https://github.com/TalhaT298">
     <img src="https://komarev.com/ghpvc/?username=TalhaT298" alt="Profile Visits">
   </a>
