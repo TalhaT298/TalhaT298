@@ -18,7 +18,7 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 [Twitter/TalhaTarique1](https://twitter.com/TalhaTarique1) &bullet; [LinkedIn/talha-tarique](https://www.linkedin.com/in/talha-tarique/) &bullet; [Instagram/talha_tarique77](https://www.instagram.com/talha_tarique77/) &bullet; [Website/https://talhatarique.netlify.app](https://talhatarique.netlify.app/) &bullet; [Facebook/Talha Tarique](https://www.facebook.com/talha.tarique.5) &bullet; [Discord/Talha Tarique](https://discord.gg/uxpwasKq) &bullet;[Threads/talha_tarique77](https://www.threads.net/@talha_tarique77) &bullet; [WhataApp/+8801785030648](https://wa.link/8bkntc)
 
 ### ⚙️ &nbsp;Work experience
----
+--
 ⚡ Worked as a FullStack Developer Intern at [Hubnex](https://www.hubnex.in/).<br>
 ⚡ Worked as a FullStack Developer Intern at [PlayerOrbit](https://www.playerorbit.com/).<br>
 ⚡ Worked as a FullStack Developer Intern at [Unicorniz Innovation](https://unicorninnovations.com/).
