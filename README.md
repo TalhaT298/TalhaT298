@@ -55,9 +55,9 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>
 <p align="center">
-<!--   <a href="https://wakatime.com/@f7838f29-ea5b-42c9-a473-628c7d8bc934">
-    <img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934.svg" alt="Wakatime">
-  </a> -->
+  <a href="https://wakatime.com/@9bd4a603-fd0b-4b39-8c44-89692e8a5b3d">
+    <img src="https://wakatime.com/badge/user/9bd4a603-fd0b-4b39-8c44-89692e8a5b3d.svg" alt="Wakatime">
+  </a>
 <!--   ![VisitorCount](https://profile-counter.glitch.me/{TalhaT298}/count.svg) -->
 
   <a href="https://github.com/TalhaT298">
