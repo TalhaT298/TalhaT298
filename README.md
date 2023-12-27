@@ -58,7 +58,10 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 <!--   <a href="https://wakatime.com/@21bac1db-681c-46c4-b9ab-9b7696a7ed10">
     <img src="https://wakatime.com/badge/user/21bac1db-681c-46c4-b9ab-9b7696a7ed10.svg" alt="Wakatime">
   </a> -->
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Talha77)
+  <img
+  src="https://github.com/Talha77/Talha77/blob/main/images/stat.svg"
+  alt="Talha77 WakaTime Activity"
+/>
 
 <!--   ![VisitorCount](https://profile-counter.glitch.me/{TalhaT298}/count.svg) -->
 
