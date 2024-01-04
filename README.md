@@ -10,7 +10,7 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 - 🌱I’m currently learning **NextJs**
 - 👯I’m looking to collaborate on github 
 - ✉️ &nbsp;You can shoot me an email at mdtalha2008@gmail.com! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html]) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé][https://www.adityavsingh.com/resume.html] for more details about me. I'm open to feedback and suggestions!
 - 📍 Location: Rangpur/Bangladesh
   
 ### 🌍 &nbsp;Socials
