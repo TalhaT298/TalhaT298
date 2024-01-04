@@ -11,7 +11,7 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 - 👯I’m looking to collaborate on github 
 - ✉️ &nbsp;You can shoot me an email at mdtalha2008@gmail.com! I'll try to respond as soon as I can.
 - 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1BO9x03glGUpAyf3S3UMyydXzzTmY6d_j/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-- 📍 Location: Rangpur/Bangladesh
+- 📍 Location: [Rangpur](https://maps.app.goo.gl/sjkFKXa5FGPwc2rg9)/Bangladesh
   
 ### 🌍 &nbsp;Socials
 ---
