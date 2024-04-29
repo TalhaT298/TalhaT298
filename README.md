@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, This is Talha Tarique</h2> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-As a Full Stack Developer, I specialize in building robust web applications from frontend to backend. With expertise in technologies such as React.js, Node.js, and MongoDB, I craft scalable and responsive solutions that meet the demands of modern digital environments. From user interface design to database management, I am dedicated to delivering high-quality, efficient code while collaborating effectively within development teams. Explore my repositories to see my contributions to innovative and impactful projects."
+As a Full Stack Developer, I specialize in building robust web applications from frontend to backend. With expertise in technologies such as React.js, Node.js, and MongoDB, I craft scalable and responsive solutions that meet the demands of modern digital environments. From user interface design to database management, I am dedicated to delivering high-quality, efficient code while collaborating effectively within development teams. Explore my repositories to see my contributions to innovative and impactful projects.
 Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, DaisyUI, Firebase, and MongoDB
 
 - 💡I would like to explore new technologies and develop software solutions and quick hacks.
