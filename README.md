@@ -15,7 +15,7 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
   
 ### 🌍 &nbsp;Socials
 ---
-[Twitter/TalhaTarique1](https://twitter.com/TalhaTarique1) &bullet; [LinkedIn/talha-tarique](https://www.linkedin.com/in/talha-tarique/) &bullet; [Instagram/talha_tarique77](https://www.instagram.com/talha_tarique77/) &bullet; [Website/https://talhatarique.netlify.app](https://talhatarique.netlify.app/) &bullet; [Facebook/Talha Tarique](https://www.facebook.com/talha.tarique.5) &bullet; [Discord/Talha Tarique](https://discord.gg/uxpwasKq) &bullet;[Threads/talha_tarique77](https://www.threads.net/@talha_tarique77) &bullet; [WhataApp/+8801785030648](https://wa.link/8bkntc)
+[Twitter/TalhaTarique1](https://twitter.com/TalhaTarique1) &bullet; [LinkedIn/talha-tarique](https://www.linkedin.com/in/talha-tarique/) &bullet; [Instagram/talha_tarique77](https://www.instagram.com/talha_tarique77/) &bullet; [Website/https://talhatarique.netlify.app](https://talhatarique.netlify.app/) &bullet; [Facebook/Talha Tarique](https://www.facebook.com/talha.tarique.5) &bullet; [Discord/Talha Tarique](https://discord.gg/uxpwasKq) &bullet;[Threads/talha_tarique77](https://www.threads.net/@talha_tarique77) &bullet;&bullet;[Medium/talhatarique](https://medium.com/@talhatarique); [WhataApp/+8801785030648](https://wa.link/8bkntc)
 
 ### ⚙️ &nbsp;Work experience
 ---
