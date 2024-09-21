@@ -12,11 +12,6 @@ Skills:React.js,Nextjs,NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Dai
 - 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1BO9x03glGUpAyf3S3UMyydXzzTmY6d_j/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - 📍 Location: [Saidpur](https://maps.app.goo.gl/sjkFKXa5FGPwc2rg9)/Bangladesh
 - 💬 Ask me about anything [here](https://github.com/TalhaT298/TalhaT298/issues)
-  <br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaT298&theme=radical" alt="GitHub Stats">
-</p>
-<br/>
 ### 🌍 &nbsp;Socials
 ---
 [Twitter/TalhaTarique1](https://twitter.com/TalhaTarique1) &bullet; [LinkedIn/talha-tarique](https://www.linkedin.com/in/talha-tarique/) &bullet; [Instagram/talha_tarique77](https://www.instagram.com/talha_tarique77/) &bullet; [Website/https://talhatarique.netlify.app](https://talhatarique.netlify.app/) &bullet; [Facebook/Talha Tarique](https://www.facebook.com/talha.tarique.5) &bullet; [Discord/Talha Tarique](https://discord.gg/uxpwasKq) &bullet;[Threads/talha_tarique77](https://www.threads.net/@talha_tarique77) &bullet;[Medium/talhatarique](https://medium.com/@talhatarique)&bullet; 
